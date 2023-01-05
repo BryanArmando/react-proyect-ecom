@@ -4,7 +4,7 @@
 
 <img src='public/kruger.png' width=50px>
 
-## Built With
+## Built With:
 
 - HTML
 - CSS
