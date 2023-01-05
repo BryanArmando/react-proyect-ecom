@@ -1,7 +1,7 @@
 const Compost = () => {
     return ( 
         <h4>
-            Retorno ocho
+            Nuevo retorno de componente
         </h4>
      );
 }
