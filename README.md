@@ -13,7 +13,7 @@
 
 ## Getting Started
 
-**In this repository I will create my personal Portfolio with some of my projects.**
+**En este repositorio, podrá encontrar mini proyectos realizados en react.**
 
 ## Run it
 
@@ -23,7 +23,7 @@ Use the following steps to run this Portfolio locally:
 
 - get in the directory you want this folder to appear
 
-- put: git clone `git@github.com:Juanse7793/Portfolio.git`
+- put: git clone `git@github.com:BryanArmando/react-proyect-ecom.git`
 
 - open the folder with a code editor (VS Code preferred)
 
@@ -33,17 +33,19 @@ Use the following steps to run this Portfolio locally:
 
 For a live demo please click on the following link:
 
-https://juanse7793.github.io/Portfolio/
+
 
 ## Authors
 
-👤 **Juan Sebastian Sotomayor**
+👤 **Bryan Armando Quisaguano**
 
-- GitHub: [@Juanse7793](https://github.com/Juanse7793)
-- Twitter: [@Juanse77930](https://twitter.com/Juanse77930)
-- LinkedIn: [Juan Sebastian Sotomayor](https://linkedin.com/in/juan-sebastian-sotomayor-2bb395198)
+- GitHub: [@BryanArmando](https://github.com/BryanArmando)
+- Twitter: [@BryanAr85746106](https://twitter.com/BryanAr85746106)
+- LinkedIn: [Bryan Armando Quisaguano](https://www.linkedin.com/in/bryan-quisaguano/)
 
-## 🤝 Contributing
+## 🤝 Acknowledgements
 
-[Juan Sotomayor](https://github.com/Juanse7793) - Tutor front ks
+[Juan Sotomayor](https://github.com/Juanse7793) - Tutor FrontEnd Kruger Star
+
+[Marcos Rivas](https://github.com/marcosrivasr) - Vida MMR- Programación web Youtube
 
