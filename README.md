@@ -1,8 +1,8 @@
-# Portfolio
+# Proyecto React
 
-- In this repository you can find My Portfolio.
+- Multi proyectos en react.
 
-<img src='images/rwdport.png'>
+<img src='public/kruger.png'>
 
 ## Built With
 
