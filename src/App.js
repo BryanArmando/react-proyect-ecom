@@ -12,8 +12,8 @@ function App() {
           <Navbar/>
           <Routes>
             <Route exact path='/' />
-            <Route exact path='/contact' element={<Compost/>}/>
-            <Route exact path='/about' element={<Refact/>} />
+            <Route exact path='/tareas' element={<Compost/>}/>
+            <Route exact path='/contact' element={<Refact/>} />
           </Routes>
         </Router>
       </header>
