@@ -32,6 +32,7 @@ Use the following steps to run this project locally on desarrollo branch:
 ### Deployment
 
 For a live demo please click on the following link:
+[Despliegue en vercel](https://react-proyect-ecom.vercel.app/tareas)
 
 
 
