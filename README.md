@@ -2,7 +2,7 @@
 
 - Multi proyectos en react.
 
-<img src='public/kruger.png'>
+<img src='public/kruger.png' width=50px>
 
 ## Built With
 
@@ -17,7 +17,7 @@
 
 ## Run it
 
-Use the following steps to run this Portfolio locally:
+Use the following steps to run this project locally on desarrollo branch:
 
 - open the terminal
 
@@ -35,7 +35,7 @@ For a live demo please click on the following link:
 
 
 
-## Authors
+## Author
 
 👤 **Bryan Armando Quisaguano**
 
